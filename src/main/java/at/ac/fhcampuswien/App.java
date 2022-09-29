@@ -13,7 +13,7 @@ public class App {
     public void helloRobot(){
         System.out.println("0123456789012345678901");
         System.out.println("         __");
-        System.out.println(" _(\\     |@@|");
+        System.out.println(" _(\\    |@@|");
         System.out.println("(__/\\__ \\--/ __");
         System.out.println("   \\___|----|  |   __");
         System.out.println("       \\ }{ /\\ )_ / _\\");
