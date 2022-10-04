@@ -1,7 +1,5 @@
 package at.ac.fhcampuswien;
 
-import javax.swing.*;
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class App {
